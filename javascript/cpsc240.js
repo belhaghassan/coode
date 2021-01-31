@@ -1,8 +1,8 @@
 // Config
 
-const apiUrl = "https://judge0.p.rapidapi.com";
-const apiHost = "judge0.p.rapidapi.com";
-const apiKey = "bb8f693609mshaf476b8c4e445a9p1482c1jsn8d28a3167617";
+const apiUrl = "https://judge0-ce.p.rapidapi.com";
+const apiHost = "judge0-ce.p.rapidapi.com";
+const apiKey = "be80a246c6msh6949f8cdbc85e52p1efee8jsna663febff4f8";
 const check_timeout = 200;
 const layoutConfig = {
   settings: {
